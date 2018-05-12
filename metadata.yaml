@@ -1,4 +1,8 @@
 _repo: The-Motor-Boys-on-the-Border-Or-Sixty-Nuggets-of-Gold_48536
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48536-h/images/cover.jpg
 creator:
   author:
     agent_name: Young, Clarence
@@ -6,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1632
     wikipedia: http://en.wikipedia.org/wiki/Clarence_Young
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48536#The-Motor-Boys-on-the-Border-Or-Sixty-Nuggets-of-Gold
 gutenberg_issued: '2015-03-20'
 gutenberg_type: Text
 identifiers:
